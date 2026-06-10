@@ -1,0 +1,6 @@
+{
+  "name": "IP Agent",
+  "description": "A stylish network tool and IP address manager in Bento Grid design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
